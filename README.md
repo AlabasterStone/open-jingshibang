@@ -1,7 +1,9 @@
 # open-jingshibang
 # 使用方法：
 ```python main_login.py```
+
 然后微信扫描二维码 自动登录
+
 ```storage host```: 默认为```https://jsb2022-1253627302.cos.ap-beijing.myqcloud.com```
 
 # Screenshot:
