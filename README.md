@@ -1,5 +1,7 @@
 # open-jingshibang
 # 使用方法：
+```pip install -r requirements.txt```
+
 ```python main_login.py```
 
 然后微信扫描二维码 自动登录
