@@ -42,16 +42,16 @@ def getPaper(id):
         pdf_file = JSB_STORAGE_HOST+pdf_url
 
         res_file = requests.get(pdf_file,timeout=3)
-        with open(f"E:\\jingshibang\\{file_name}.pdf","wb") as f:
+        with open(f"./files/{file_name}.pdf","wb") as f:
             f.write(res_file.content)
             print(f"[{PAPER_ID_BASE+id}]")
     except Exception as e:
         print(f"[Exception# {PAPER_ID_BASE+id}]")
 
-i = 119000-PAPER_ID_BASE
+# i = 119000-PAPER_ID_BASE
 
 
-for i in track(range(132278-PAPER_ID_BASE,144975-PAPER_ID_BASE+1,20),description="Downloading..."):
+for i in track(range(PAPER_ID_BASE,144975-PAPER_ID_BASE+1,20),description="Downloading..."):
 #while i<=144975-PAPER_ID_BASE:
     threads = []
     for j in range(20):
