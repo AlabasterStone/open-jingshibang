@@ -11,8 +11,9 @@ from pyzbar.pyzbar import decode
 from io import BytesIO
 logging.basicConfig(level=logging.INFO)
 
-# 😆😆😆
+# 😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆
 print("[bold magenta]Made with ❤️ by tourkveg[/bold magenta]")
+# 😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆
 
 JSB_API_URL = "http://www.jingshibang.com/api/product/detail/"
 PAPER_ID_BASE = 18935
