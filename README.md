@@ -30,6 +30,4 @@
 <img width="1039" alt="image" src="https://github.com/AlabasterStone/open-jingshibang/assets/109396039/6395c12b-4f43-40e9-8fd0-6afc6c605bd2">
 
 
-
-# ⚠️IMPORTANT NOTICE
-# 本项目仅供学习研究使用，请勿用于实际用途，出事概不负责。
+# 本项目仅供学习研究使用，请勿滥用
